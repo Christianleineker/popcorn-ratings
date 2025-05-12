@@ -1,6 +1,6 @@
 # Popcorn Ratings
 
-Popcorn Ratings é um site de recomendação de filmes onde os usuários podem explorar títulos e salvar seus favoritos para acessá-los facilmente depois. O projeto foi desenvolvido com HTML, CSS e JavaScript garantindo uma experiência leve e eficiente.
+Popcorn Ratings é um site de recomendação de filmes onde os usuários podem explorar títulos e salvar seus favoritos para acessá-los facilmente depois. O projeto foi desenvolvido com HTML, CSS e JavaScript, utilizando Local Storage para armazenar os filmes salvos pelo usuário, garantindo uma experiência leve, eficiente e sem necessidade de login.
 
 ## Funcionalidades
 
